@@ -1,2 +1,2 @@
-# picture
-for use images
+# Mini Game
+let play have fun
