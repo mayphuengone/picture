@@ -1,18 +1,60 @@
 {
-    "images":[
-        "https://github.com/mayphuengone/picture/blob/main/dack_image/back.png",
-        "https://github.com/mayphuengone/picture/blob/main/dack_image/d1.png",
-        "https://github.com/mayphuengone/picture/blob/main/dack_image/d2.png",
-        "https://github.com/mayphuengone/picture/blob/main/dack_image/d3.png",
-        "https://github.com/mayphuengone/picture/blob/main/dack_image/d4.png",
-        "https://github.com/mayphuengone/picture/blob/main/dack_image/d5.png",
-        "https://github.com/mayphuengone/picture/blob/main/dack_image/d6.png",
-        "https://github.com/mayphuengone/picture/blob/main/dack_image/d7.png",
-        "https://github.com/mayphuengone/picture/blob/main/dack_image/d8.png",
-        "https://github.com/mayphuengone/picture/blob/main/dack_image/d9.png",
-        "https://github.com/mayphuengone/picture/blob/main/dack_image/d10.png",
-        "https://github.com/mayphuengone/picture/blob/main/dack_image/dJ.png",
-        "https://github.com/mayphuengone/picture/blob/main/dack_image/dQ.png",
-        "https://github.com/mayphuengone/picture/blob/main/dack_image/dK.png"
+    "cards":[
+      {
+        "image": "https://github.com/mayphuengone/picture/blob/main/dack_image/back.png"
+      },
+       {
+        "value":"1",
+        "image": "https://github.com/mayphuengone/picture/blob/main/dack_image/d1.png"
+      },
+       {
+        "value":"2",
+        "image": "https://github.com/mayphuengone/picture/blob/main/dack_image/d2.png"
+      },
+       {
+        "value":"3",
+        "image": "https://github.com/mayphuengone/picture/blob/main/dack_image/d3.png"
+      },
+       {
+        "value":"4",
+        "image": "https://github.com/mayphuengone/picture/blob/main/dack_image/d4.png"
+      },
+       {
+        "value":"5",
+        "image": "https://github.com/mayphuengone/picture/blob/main/dack_image/d5.png"
+      },
+       {
+        "value":"6",
+        "image": "https://github.com/mayphuengone/picture/blob/main/dack_image/d6.png"
+      },
+       {
+        "value":"7",
+        "image": "https://github.com/mayphuengone/picture/blob/main/dack_image/d7.png"
+      },
+       {
+        "value":"8",
+        "image": "https://github.com/mayphuengone/picture/blob/main/dack_image/d8.png"
+      },
+       {
+        "value":"9",
+        "image": "https://github.com/mayphuengone/picture/blob/main/dack_image/d9.png"
+      },
+       {
+        "value":"10",
+        "image": "https://github.com/mayphuengone/picture/blob/main/dack_image/d10.png"
+      },
+       {
+        "value":"JACK",
+        "image": "https://github.com/mayphuengone/picture/blob/main/dack_image/dJ.png"
+      },
+       {
+        "value":"QUEEN",
+        "image": "https://github.com/mayphuengone/picture/blob/main/dack_image/dQ.png"
+      },
+       {
+        "value":"KING",
+        "image": "https://github.com/mayphuengone/picture/blob/main/dack_image/dK.png"
+      }
+
     ]
 }
