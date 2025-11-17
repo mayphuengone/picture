@@ -1,5 +1,8 @@
 {
     "great":"https://github.com/mayphuengone/picture/blob/main/sounds/great.mp3",
     "perfect":"https://github.com/mayphuengone/picture/blob/main/sounds/perfect.mp3",
-    "tryagain":"https://github.com/mayphuengone/picture/blob/main/sounds/tryagain.mp3"
+    "tryagain":"https://github.com/mayphuengone/picture/blob/main/sounds/tryagain.mp3",
+    "button":"https://github.com/mayphuengone/picture/blob/main/sounds/button.mp3",
+    "background":"https://github.com/mayphuengone/picture/blob/main/sounds/background.mp3",
+    "countdown":"https://github.com/mayphuengone/picture/blob/main/sounds/countdown.mp3"
 }
