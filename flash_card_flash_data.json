@@ -58,7 +58,7 @@
         },
         {
             "name": "owl",
-            "image": "https://github.com/mayphuengone/picture/blob/main/flash_card_flash/owl.avif"
+            "image": "https://github.com/mayphuengone/picture/blob/main/flash_card_flash/owl.jfif"
         },
         {
             "name": "panda",
@@ -93,4 +93,5 @@
             "image": "https://github.com/mayphuengone/picture/blob/main/flash_card_flash/zebra.jpg"
         }
     ]
+
 }
