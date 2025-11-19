@@ -2,96 +2,118 @@
     "animal": [
         {
             "name": "anteater",
-            "image": "https://github.com/mayphuengone/picture/blob/main/flash_card_flash/anteater.webp"
+            "image": "https://github.com/mayphuengone/picture/blob/main/flash_card_flash/anteater.webp",
+            "sound": "https://github.com/mayphuengone/picture/blob/main/flash_card_flash/anteater%20.mp3"
         },
         {
             "name": "bear",
-            "image": "https://github.com/mayphuengone/picture/blob/main/flash_card_flash/bear.webp"
+            "image": "https://github.com/mayphuengone/picture/blob/main/flash_card_flash/bear.webp",
+            "sound": "https://github.com/mayphuengone/picture/blob/main/flash_card_flash/bear.mp3"
         },
         {
             "name": "camel",
-            "image": "https://github.com/mayphuengone/picture/blob/main/flash_card_flash/camel.avif"
+            "image": "https://github.com/mayphuengone/picture/blob/main/flash_card_flash/camel.avif",
+            "sound": "https://github.com/mayphuengone/picture/blob/main/flash_card_flash/camel%20.mp3"
         },
         {
             "name": "duck",
-            "image": "https://github.com/mayphuengone/picture/blob/main/flash_card_flash/duck.webp"
+            "image": "https://github.com/mayphuengone/picture/blob/main/flash_card_flash/duck.webp",
+            "sound": "https://github.com/mayphuengone/picture/blob/main/flash_card_flash/duck.mp3"
         },
         {
             "name": "elephant",
-            "image": "https://github.com/mayphuengone/picture/blob/main/flash_card_flash/elephant.jpg"
+            "image": "https://github.com/mayphuengone/picture/blob/main/flash_card_flash/elephant.jpg",
+            "sound": "https://github.com/mayphuengone/picture/blob/main/flash_card_flash/elephant%20.mp3"
         },
         {
             "name": "fox",
-            "image": "https://github.com/mayphuengone/picture/blob/main/flash_card_flash/fox.avif"
+            "image": "https://github.com/mayphuengone/picture/blob/main/flash_card_flash/fox.avif",
+            "sound": "https://github.com/mayphuengone/picture/blob/main/flash_card_flash/fox.mp3"
         },
         {
             "name": "giraffe",
-            "image": "https://github.com/mayphuengone/picture/blob/main/flash_card_flash/giraffe.avif"
+            "image": "https://github.com/mayphuengone/picture/blob/main/flash_card_flash/giraffe.avif",
+            "sound": "https://github.com/mayphuengone/picture/blob/main/flash_card_flash/giraffe.mp3"
         },
         {
             "name": "hamster",
-            "image": "https://github.com/mayphuengone/picture/blob/main/flash_card_flash/hamster.avif"
+            "image": "https://github.com/mayphuengone/picture/blob/main/flash_card_flash/hamster.avif",
+            "sound": "https://github.com/mayphuengone/picture/blob/main/flash_card_flash/hamster.mp3"
         },
         {
             "name": "impala",
-            "image": "https://github.com/mayphuengone/picture/blob/main/flash_card_flash/impala.webp"
+            "image": "https://github.com/mayphuengone/picture/blob/main/flash_card_flash/impala.webp",
+            "sound": "https://github.com/mayphuengone/picture/blob/main/flash_card_flash/impala.mp3"
         },
         {
             "name": "jaguar",
-            "image": "https://github.com/mayphuengone/picture/blob/main/flash_card_flash/jaguar.webp"
+            "image": "https://github.com/mayphuengone/picture/blob/main/flash_card_flash/jaguar.webp",
+            "sound": "https://github.com/mayphuengone/picture/blob/main/flash_card_flash/jaguar.mp3"
         },
         {
             "name": "koala",
-            "image": "https://github.com/mayphuengone/picture/blob/main/flash_card_flash/koala.jfif"
+            "image": "https://github.com/mayphuengone/picture/blob/main/flash_card_flash/koala.jfif",
+            "sound": "https://github.com/mayphuengone/picture/blob/main/flash_card_flash/koala.mp3"
         },
         {
             "name": "lion",
-            "image": "https://github.com/mayphuengone/picture/blob/main/flash_card_flash/lion.webp"
+            "image": "https://github.com/mayphuengone/picture/blob/main/flash_card_flash/lion.webp",
+            "sound": "https://github.com/mayphuengone/picture/blob/main/flash_card_flash/lion.mp3"
         },
         {
             "name": "monkey",
-            "image": "https://github.com/mayphuengone/picture/blob/main/flash_card_flash/monkey.jfif"
+            "image": "https://github.com/mayphuengone/picture/blob/main/flash_card_flash/monkey.jfif",
+            "sound": "https://github.com/mayphuengone/picture/blob/main/flash_card_flash/monkey.mp3"
         },
         {
             "name": "nightingale",
-            "image": "https://github.com/mayphuengone/picture/blob/main/flash_card_flash/nightingale.jpg"
+            "image": "https://github.com/mayphuengone/picture/blob/main/flash_card_flash/nightingale.jpg",
+            "sound": "https://github.com/mayphuengone/picture/blob/main/flash_card_flash/nightingale%20.mp3"
         },
         {
             "name": "owl",
-            "image": "https://github.com/mayphuengone/picture/blob/main/flash_card_flash/owl.jfif"
+            "image": "https://github.com/mayphuengone/picture/blob/main/flash_card_flash/owl.jfif",
+            "sound": "https://github.com/mayphuengone/picture/blob/main/flash_card_flash/owl.mp3"
         },
         {
             "name": "panda",
-            "image": "https://github.com/mayphuengone/picture/blob/main/flash_card_flash/panda.webp"
+            "image": "https://github.com/mayphuengone/picture/blob/main/flash_card_flash/panda.webp",
+            "sound": "https://github.com/mayphuengone/picture/blob/main/flash_card_flash/panda.mp3"
         },
         {
             "name": "rabbit",
-            "image": "https://github.com/mayphuengone/picture/blob/main/flash_card_flash/rabbit.webp"
+            "image": "https://github.com/mayphuengone/picture/blob/main/flash_card_flash/rabbit.webp",
+            "sound": "https://github.com/mayphuengone/picture/blob/main/flash_card_flash/rabbit.mp3"
         },
         {
             "name": "snake",
-            "image": "https://github.com/mayphuengone/picture/blob/main/flash_card_flash/snake.jpg"
+            "image": "https://github.com/mayphuengone/picture/blob/main/flash_card_flash/snake.jpg",
+            "sound": "https://github.com/mayphuengone/picture/blob/main/flash_card_flash/snake.mp3"
         },
         {
             "name": "tiger",
-            "image": "https://github.com/mayphuengone/picture/blob/main/flash_card_flash/tiger.webp"
+            "image": "https://github.com/mayphuengone/picture/blob/main/flash_card_flash/tiger.webp",
+            "sound": "https://github.com/mayphuengone/picture/blob/main/flash_card_flash/tiger.mp3"
         },
         {
             "name": "vulture",
-            "image": "https://github.com/mayphuengone/picture/blob/main/flash_card_flash/vulture.webp"
+            "image": "https://github.com/mayphuengone/picture/blob/main/flash_card_flash/vulture.webp",
+            "sound": "https://github.com/mayphuengone/picture/blob/main/flash_card_flash/vulture.mp3"
         },
         {
             "name": "wolf",
-            "image": "https://github.com/mayphuengone/picture/blob/main/flash_card_flash/wolf.webp"
+            "image": "https://github.com/mayphuengone/picture/blob/main/flash_card_flash/wolf.webp",
+            "sound": "https://github.com/mayphuengone/picture/blob/main/flash_card_flash/wolf.mp3"
         },
         {
             "name": "yak",
-            "image": "https://github.com/mayphuengone/picture/blob/main/flash_card_flash/yak.webp"
+            "image": "https://github.com/mayphuengone/picture/blob/main/flash_card_flash/yak.webp",
+            "sound": "https://github.com/mayphuengone/picture/blob/main/flash_card_flash/yak.mp3"
         },
         {
             "name": "zebra",
-            "image": "https://github.com/mayphuengone/picture/blob/main/flash_card_flash/zebra.jpg"
+            "image": "https://github.com/mayphuengone/picture/blob/main/flash_card_flash/zebra.jpg",
+            "sound": "https://github.com/mayphuengone/picture/blob/main/flash_card_flash/zebra.mp3"
         }
     ]
-
 }
