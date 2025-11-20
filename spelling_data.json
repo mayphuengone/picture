@@ -12,27 +12,27 @@
     "Watermelon"
   ],
   "images": [
-    "https://raw.githubusercontent.com/mayphuengone/picture/main/fruit_image/Apple.webp",
-    "https://raw.githubusercontent.com/mayphuengone/picture/main/fruit_image/Banana.webp",
-    "https://raw.githubusercontent.com/mayphuengone/picture/main/fruit_image/Grapes.png",
-    "https://raw.githubusercontent.com/mayphuengone/picture/main/fruit_image/Kiwi.webp",
-    "https://raw.githubusercontent.com/mayphuengone/picture/main/fruit_image/Mango.webp",
-    "https://raw.githubusercontent.com/mayphuengone/picture/main/fruit_image/Orange.jpg",
-    "https://raw.githubusercontent.com/mayphuengone/picture/main/fruit_image/Papaya.webp",
-    "https://raw.githubusercontent.com/mayphuengone/picture/main/fruit_image/Pineapple.webp",
-    "https://raw.githubusercontent.com/mayphuengone/picture/main/fruit_image/Strawberry.jpg",
-    "https://raw.githubusercontent.com/mayphuengone/picture/main/fruit_image/Watermelon.webp"
+    "https://github.com/mayphuengone/picture/blob/main/fruit_image/Apple.png",
+    "https://github.com/mayphuengone/picture/blob/main/fruit_image/Banana.jfif",
+    "https://github.com/mayphuengone/picture/blob/main/fruit_image/Grapes.png",
+    "https://github.com/mayphuengone/picture/blob/main/fruit_image/Kiwi.jfif",
+    "https://github.com/mayphuengone/picture/blob/main/fruit_image/Mango.jfif",
+    "https://github.com/mayphuengone/picture/blob/main/fruit_image/Orange.png",
+    "https://github.com/mayphuengone/picture/blob/main/fruit_image/Papaya.jpg",
+    "https://github.com/mayphuengone/picture/blob/main/fruit_image/Pineapple.png",
+    "https://github.com/mayphuengone/picture/blob/main/fruit_image/Strawberry.png",
+    "https://github.com/mayphuengone/picture/blob/main/fruit_image/Watermelon.png"
   ],
   "voices": [
-    "https://raw.githubusercontent.com/mayphuengone/picture/main/fruit_image/apple1.mp3",
-    "https://raw.githubusercontent.com/mayphuengone/picture/main/fruit_image/banana1.mp3",
-    "https://raw.githubusercontent.com/mayphuengone/picture/main/fruit_image/grapes1.mp3",
-    "https://raw.githubusercontent.com/mayphuengone/picture/main/fruit_image/kiwi1.mp3",
-    "https://raw.githubusercontent.com/mayphuengone/picture/main/fruit_image/mango1.mp3",
-    "https://raw.githubusercontent.com/mayphuengone/picture/main/fruit_image/orange1.mp3",
-    "https://raw.githubusercontent.com/mayphuengone/picture/main/fruit_image/papaya1.mp3",
-    "https://raw.githubusercontent.com/mayphuengone/picture/main/fruit_image/pineapple1.mp3",
-    "https://raw.githubusercontent.com/mayphuengone/picture/main/fruit_image/strawberry1.mp3",
-    "https://raw.githubusercontent.com/mayphuengone/picture/main/fruit_image/watermelon1.mp3"
+    "http://github.com/mayphuengone/picture/blob/main/fruit_image/apple1.mp3",
+    "http://github.com/mayphuengone/picture/blob/main/fruit_image/banana1.mp3",
+    "http://github.com/mayphuengone/picture/blob/main/fruit_image/grapes1.mp3",
+    "http://github.com/mayphuengone/picture/blob/main/fruit_image/kiwi1.mp3",
+    "http://github.com/mayphuengone/picture/blob/main/fruit_image/mango1.mp3",
+    "http://github.com/mayphuengone/picture/blob/main/fruit_image/orange1%20.mp3",
+    "http://github.com/mayphuengone/picture/blob/main/fruit_image/papaya1.mp3",
+    "http://github.com/mayphuengone/picture/blob/main/fruit_image/pineapple1%20.mp3",
+    "http://github.com/mayphuengone/picture/blob/main/fruit_image/strawberry1.mp3",
+    "http://github.com/mayphuengone/picture/blob/main/fruit_image/watermelon1.mp3"
   ]
 }
