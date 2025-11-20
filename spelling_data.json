@@ -3,53 +3,54 @@
   {
 "words": "Apple",
 "images":"https://raw.githubusercontent.com/mayphuengone/picture/main/fruit_image/Apple.png",
-"voices":"http://raw.githubusercontent.com/mayphuengone/picture/main/fruit_image/apple1.mp3"
+"voices":"https://raw.githubusercontent.com/mayphuengone/picture/main/fruit_image/apple1.mp3"
 },
 {
 "words":"Banana",
 "images": "https://raw.githubusercontent.com/mayphuengone/picture/main/fruit_image/Banana.png",
-"voices":"http://raw.githubusercontent.com/mayphuengone/picture/main/fruit_image/banana1.mp3"
+"voices":"https://raw.githubusercontent.com/mayphuengone/picture/main/fruit_image/banana1.mp3"
 },
 {
 "words":"Grape",
 "images":"https://raw.githubusercontent.com/mayphuengone/picture/main/fruit_image/Grape.png",
-"voices":  "http://raw.githubusercontent.com/mayphuengone/picture/main/fruit_image/grapes1.mp3"
+"voices":  "https://raw.githubusercontent.com/mayphuengone/picture/main/fruit_image/grapes1.mp3"
 },
 {
 "words":"Kiwi",
 "images":"https://raw.githubusercontent.com/mayphuengone/picture/main/fruit_image/Kiwi.png",
-"voices": "http://raw.githubusercontent.com/mayphuengone/picture/main/fruit_image/kiwi1.mp3"
+"voices": "https://raw.githubusercontent.com/mayphuengone/picture/main/fruit_image/kiwi1.mp3"
 },
 {
 "words": "Mango",
 "images":"https://raw.githubusercontent.com/mayphuengone/picture/main/fruit_image/Mango.png",
-"voices": "http://raw.githubusercontent.com/mayphuengone/picture/main/fruit_image/mango1.mp3"
+"voices": "https://raw.githubusercontent.com/mayphuengone/picture/main/fruit_image/mango1.mp3"
 },
 {
 "words": "Orange",
 "images":"https://raw.githubusercontent.com/mayphuengone/picture/main/fruit_image/Orange.png",
-"voices":"http://raw.githubusercontent.com/mayphuengone/picture/main/fruit_image/orange1%20.mp3"
+"voices":"https://raw.githubusercontent.com/mayphuengone/picture/main/fruit_image/orange1%20.mp3"
 },
 {
 "words":"Papaya",
 "images": "https://raw.githubusercontent.com/mayphuengone/picture/main/fruit_image/Papaya.png",
-"voices": "http://raw.githubusercontent.com/mayphuengone/picture/main/fruit_image/papaya1.mp3"
+"voices": "https://raw.githubusercontent.com/mayphuengone/picture/main/fruit_image/papaya1.mp3"
 },
 {
 "words": "Pineapple",
 "images":  "https://raw.githubusercontent.com/mayphuengone/picture/main/fruit_image/Pineapple.png",
-"voices":"http://raw.githubusercontent.com/mayphuengone/picture/main/fruit_image/pineapple1%20.mp3"
+"voices":"https://raw.githubusercontent.com/mayphuengone/picture/main/fruit_image/pineapple1%20.mp3"
 },
 {
 "words":"Strawberry",
 "images": "https://raw.githubusercontent.com/mayphuengone/picture/main/fruit_image/Strawberry.png",
-"voices": "http://raw.githubusercontent.com/mayphuengone/picture/main/fruit_image/strawberry1.mp3"
+"voices": "https://raw.githubusercontent.com/mayphuengone/picture/main/fruit_image/strawberry1.mp3"
 },
 {
 "words": "Watermelon",
 "images":"https://raw.githubusercontent.com/mayphuengone/picture/main/fruit_image/Watermelon.png",
-"voices": "http://raw.githubusercontent.com/mayphuengone/picture/main/fruit_image/watermelon1.mp3"
+"voices": "https://raw.githubusercontent.com/mayphuengone/picture/main/fruit_image/watermelon1.mp3"
 }
   ]
 
 }
+
