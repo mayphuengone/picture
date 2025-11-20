@@ -2,53 +2,53 @@
   "spelling":[
   {
 "words": "Apple",
-"images":"https://github.com/mayphuengone/picture/blob/main/fruit_image/Apple.png",
-"voices":"http://github.com/mayphuengone/picture/blob/main/fruit_image/apple1.mp3"
+"images":"https://raw.githubusercontent.com/mayphuengone/picture/blob/main/fruit_image/Apple.png",
+"voices":"http://raw.githubusercontent.com/mayphuengone/picture/blob/main/fruit_image/apple1.mp3"
 },
 {
 "words":"Banana",
-"images": "https://github.com/mayphuengone/picture/blob/main/fruit_image/Banana.jfif",
-"voices":"http://github.com/mayphuengone/picture/blob/main/fruit_image/banana1.mp3"
+"images": "https://raw.githubusercontent.com/mayphuengone/picture/blob/main/fruit_image/Banana.jfif",
+"voices":"http://raw.githubusercontent.com/mayphuengone/picture/blob/main/fruit_image/banana1.mp3"
 },
 {
 "words":"Grape",
-"images":"https://github.com/mayphuengone/picture/blob/main/fruit_image/Grapes.png",
-"voices":  "http://github.com/mayphuengone/picture/blob/main/fruit_image/grapes1.mp3"
+"images":"https://raw.githubusercontent.com/mayphuengone/picture/blob/main/fruit_image/Grapes.png",
+"voices":  "http://raw.githubusercontent.com/mayphuengone/picture/blob/main/fruit_image/grapes1.mp3"
 },
 {
 "words":"Kiwi",
-"images":"https://github.com/mayphuengone/picture/blob/main/fruit_image/Kiwi.jfif",
-"voices": "http://github.com/mayphuengone/picture/blob/main/fruit_image/kiwi1.mp3"
+"images":"https://raw.githubusercontent.com/mayphuengone/picture/blob/main/fruit_image/Kiwi.jfif",
+"voices": "http://raw.githubusercontent.com/mayphuengone/picture/blob/main/fruit_image/kiwi1.mp3"
 },
 {
 "words": "Mango",
-"images":"https://github.com/mayphuengone/picture/blob/main/fruit_image/Mango.jfif",
-"voices": "http://github.com/mayphuengone/picture/blob/main/fruit_image/mango1.mp3"
+"images":"https://raw.githubusercontent.com/mayphuengone/picture/blob/main/fruit_image/Mango.jfif",
+"voices": "http://raw.githubusercontent.com/mayphuengone/picture/blob/main/fruit_image/mango1.mp3"
 },
 {
 "words": "Orange",
-"images":"https://github.com/mayphuengone/picture/blob/main/fruit_image/Orange.png",
-"voices":"http://github.com/mayphuengone/picture/blob/main/fruit_image/orange1%20.mp3"
+"images":"https://raw.githubusercontent.com/mayphuengone/picture/blob/main/fruit_image/Orange.png",
+"voices":"http://raw.githubusercontent.com/mayphuengone/picture/blob/main/fruit_image/orange1%20.mp3"
 },
 {
 "words":"Papaya",
-"images": "https://github.com/mayphuengone/picture/blob/main/fruit_image/Papaya.jpg",
-"voices": "http://github.com/mayphuengone/picture/blob/main/fruit_image/papaya1.mp3"
+"images": "https://raw.githubusercontent.com/mayphuengone/picture/blob/main/fruit_image/Papaya.jpg",
+"voices": "http://raw.githubusercontent.com/mayphuengone/picture/blob/main/fruit_image/papaya1.mp3"
 },
 {
 "words": "Pineapple",
-"images":  "https://github.com/mayphuengone/picture/blob/main/fruit_image/Pineapple.png",
-"voices":"http://github.com/mayphuengone/picture/blob/main/fruit_image/pineapple1%20.mp3"
+"images":  "https://raw.githubusercontent.com/mayphuengone/picture/blob/main/fruit_image/Pineapple.png",
+"voices":"http://raw.githubusercontent.com/mayphuengone/picture/blob/main/fruit_image/pineapple1%20.mp3"
 },
 {
 "words":"Strawberry",
-"images": "https://github.com/mayphuengone/picture/blob/main/fruit_image/Strawberry.png",
-"voices": "http://github.com/mayphuengone/picture/blob/main/fruit_image/strawberry1.mp3"
+"images": "https://raw.githubusercontent.com/mayphuengone/picture/blob/main/fruit_image/Strawberry.png",
+"voices": "http://raw.githubusercontent.com/mayphuengone/picture/blob/main/fruit_image/strawberry1.mp3"
 },
 {
 "words": "Watermelon",
-"images":"https://github.com/mayphuengone/picture/blob/main/fruit_image/Watermelon.png",
-"voices": "http://github.com/mayphuengone/picture/blob/main/fruit_image/watermelon1.mp3"
+"images":"https://raw.githubusercontent.com/mayphuengone/picture/blob/main/fruit_image/Watermelon.png",
+"voices": "http://raw.githubusercontent.com/mayphuengone/picture/blob/main/fruit_image/watermelon1.mp3"
 }
   ]
 
