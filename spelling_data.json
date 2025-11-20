@@ -7,22 +7,22 @@
 },
 {
 "words":"Banana",
-"images": "https://raw.githubusercontent.com/mayphuengone/picture/main/fruit_image/Banana.jfif",
+"images": "https://raw.githubusercontent.com/mayphuengone/picture/main/fruit_image/Banana.png",
 "voices":"http://raw.githubusercontent.com/mayphuengone/picture/main/fruit_image/banana1.mp3"
 },
 {
 "words":"Grape",
-"images":"https://raw.githubusercontent.com/mayphuengone/picture/main/fruit_image/Grapes.png",
+"images":"https://raw.githubusercontent.com/mayphuengone/picture/main/fruit_image/Grape.png",
 "voices":  "http://raw.githubusercontent.com/mayphuengone/picture/main/fruit_image/grapes1.mp3"
 },
 {
 "words":"Kiwi",
-"images":"https://raw.githubusercontent.com/mayphuengone/picture/main/fruit_image/Kiwi.jfif",
+"images":"https://raw.githubusercontent.com/mayphuengone/picture/main/fruit_image/Kiwi.png",
 "voices": "http://raw.githubusercontent.com/mayphuengone/picture/main/fruit_image/kiwi1.mp3"
 },
 {
 "words": "Mango",
-"images":"https://raw.githubusercontent.com/mayphuengone/picture/main/fruit_image/Mango.jfif",
+"images":"https://raw.githubusercontent.com/mayphuengone/picture/main/fruit_image/Mango.png",
 "voices": "http://raw.githubusercontent.com/mayphuengone/picture/main/fruit_image/mango1.mp3"
 },
 {
@@ -32,7 +32,7 @@
 },
 {
 "words":"Papaya",
-"images": "https://raw.githubusercontent.com/mayphuengone/picture/main/fruit_image/Papaya.jpg",
+"images": "https://raw.githubusercontent.com/mayphuengone/picture/main/fruit_image/Papaya.png",
 "voices": "http://raw.githubusercontent.com/mayphuengone/picture/main/fruit_image/papaya1.mp3"
 },
 {
