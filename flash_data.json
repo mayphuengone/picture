@@ -1,12 +1,12 @@
 {
     "images":[
-        "https://github.com/mayphuengone/picture/blob/main/flash_image/car1.jfif",
-        "https://github.com/mayphuengone/picture/blob/main/flash_image/car2.jpg",
-        "https://github.com/mayphuengone/picture/blob/main/flash_image/car3.jfif",
-        "https://github.com/mayphuengone/picture/blob/main/flash_image/car4.jfif",
-        "https://github.com/mayphuengone/picture/blob/main/flash_image/car5.jpg",
-        "https://github.com/mayphuengone/picture/blob/main/flash_image/car6.png",
-        "https://github.com/mayphuengone/picture/blob/main/flash_image/car7.png",
-        "https://github.com/mayphuengone/picture/blob/main/flash_image/car8.jfif"
+        "https://raw.githubusercontent.com/mayphuengone/picture/refs/heads/main/flash_image/car1.jfif",
+        "https://raw.githubusercontent.com/mayphuengone/picture/refs/heads/main/flash_image/car2.jpg",
+        "https://raw.githubusercontent.com/mayphuengone/picture/refs/heads/main/flash_image/car3.jfif",
+        "https://raw.githubusercontent.com/mayphuengone/picture/refs/heads/main/flash_image/car4.jfif",
+        "https://raw.githubusercontent.com/mayphuengone/picture/refs/heads/main/flash_image/car5.jpg",
+        "https://raw.githubusercontent.com/mayphuengone/picture/refs/heads/main/flash_image/car6.png",
+        "https://raw.githubusercontent.com/mayphuengone/picture/refs/heads/main/flash_image/car7.png",
+        "https://raw.githubusercontent.com/mayphuengone/picture/refs/heads/main/flash_image/car8.jfif"
     ]
 }
